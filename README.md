@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/eiad215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eiad215" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eiad mahdi alsalem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eiad mahdi alsalem" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eiad-mahdi-alsalem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eiad mahdi alsalem" height="30" width="40" /></a>
 <a href="https://instagram.com/stalk.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stalk.dev" height="30" width="40" /></a>
 <a href="https://discord.gg/users/@cs.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="632091009119158272" height="30" width="40" /></a>
 </p>
