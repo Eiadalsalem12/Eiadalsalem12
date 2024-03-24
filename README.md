@@ -4,8 +4,6 @@
 
 - 🏚 I'm based in Qatif, Saudi Arabia
 
-- ✉️  You can contact me at alsalemeiad31@gmail.com
-
 - 🔭 I’m currently working on Travel App **MarketPlace**
 
 - 🌱 I'm currently learning advanced thing with **Firebase, React Native, Tailwind**
