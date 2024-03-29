@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at **Github**
 
-- 📝 I regularly write articles on [Trade, financial matters and economic situations](Trade, financial matters and economic situations)
+- 📝 I regularly write articles on Trade, financial matters and economic situations
 
 - 💬 Ask me about **React Native, firebase**
 
