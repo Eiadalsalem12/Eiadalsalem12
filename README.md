@@ -4,7 +4,7 @@
 
 - 🏚 I'm based in Qatif, Saudi Arabia
 
-- 🔭 I’m currently working on Travel App **MarketPlace**
+- 🔭 I’m currently working on real estate App **MarketPlace**
 
 - 🌱 I'm currently learning advanced thing with **Firebase, React Native, Tailwind**
 
